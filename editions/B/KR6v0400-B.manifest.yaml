@@ -1,0 +1,86 @@
+canonical_identifier: bkk:krp/KR6v0400/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0400/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛般若波羅蜜經集註
+  identifiers:
+    krp: KR6v0400
+    cbeta: B21n0116
+    cbeta_old_id: B21n0116
+    authorityid: CA0006200
+    json_key: B0116
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B21/B21n0116.xml
+    old_id: B21n0116
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0400_001-B.yaml, hash: 'sha256:e280c0a5839244313f053260698319cfeb3482496c9cc872721e3251b1824076'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0400_001-B.markers.yaml, hash: 'sha256:a79bd682f069f7ccc82e5d2ec14850948daf35bdbea6c45bf5755c662d4bf897'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0400_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 77807
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0400_B_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 出版說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0400_B_001-mulu-2
+    span:
+    - body
+    - 905
+    - 905
+  label: 說法圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0400_B_001-mulu-3
+    span:
+    - body
+    - 905
+    - 905
+  label: 御製序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0400_B_001-mulu-4
+    span:
+    - body
+    - 1382
+    - 1382
+  label: 本文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0400_B_001-mulu-5
+    span:
+    - body
+    - 77807
+    - 77807
+  label: 護法圖
+  type: mulu
+  level: 1
+hash: sha256:ecca4b77abfe4086ccfec3208d07af2ab62edce73d727e34040a48fd3df4948e
