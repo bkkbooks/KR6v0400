@@ -18,9 +18,9 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 1, filename: KR6v0400_001.yaml, hash: 'sha256:97e389801f83725d94747df7323980cd8d8e569c9bdd7f4c96b562fe45f14f99'}
+  - {seq: 1, filename: KR6v0400_001.yaml, hash: 'sha256:e280c0a5839244313f053260698319cfeb3482496c9cc872721e3251b1824076'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0400_001.markers.yaml, hash: 'sha256:609cecca8af2c013a550e1ab6109f7ae52959491496ac39c5a89f7da82fabbc7'}
+  - {seq: 1, role: markers, filename: assets/KR6v0400_001.markers.yaml, hash: 'sha256:f7e424350d8930990ea59c7cec569ad52e9c0f65966e0032b037cb106e6b9842'}
 table_of_contents:
 - ref:
     seq: 1
@@ -82,7 +82,4 @@ table_of_contents:
   label: 護法圖
   type: mulu
   level: 1
-hash: sha256:294384a37716c267b6d751676da75e1564517e09d044a37d3f41e470bcf9177f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9473b42a7882621aed2145fc7680dcffd7d5d3f104dd2a8bd8cc69f95c60bd15
